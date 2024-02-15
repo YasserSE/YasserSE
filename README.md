@@ -1,7 +1,7 @@
-<h3>Hi! My name is Yasser</h3>
+<h3>Welcome</h3>
 <h4></h4>
 
-<h5>Marketing, Product, Web, Growth</h5>
+<h5>I usualy work in Marketing, Product, Web, Growth or Operations</h5>
 
 <h4> 📚 Github Stats: </h4>
 <div>
