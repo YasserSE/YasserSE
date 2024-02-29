@@ -1,7 +1,8 @@
 <h3>Welcome</h3>
 <h4></h4>
 
-<h5>I usualy work in Marketing, Product, Web, Growth or Operations</h5>
+<h5>Passionate about Growth, Marketing, Operations and Data/h5>
+<h6>Solve via iteration, then get paid via repetition</h6>
 
 <h4> 📚 Github Stats: </h4>
 <div>
