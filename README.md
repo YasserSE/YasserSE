@@ -5,7 +5,7 @@
 <h6>Solve via iteration, then get paid via repetition</h6>
 
 <h4> 📚 Github Stats: </h4>
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YasserSE&show_icons=true&theme=radical)](https://github.com/YOUR_GITHUB_USERNAME)
+[![GitHub Streak](https://streak-stats.demolab.com?user=YasserSE&theme=radical)](https://git.io/streak-stats)
 <div>
   <a href="[https://github.com/AlianeAmaral](https://github.com/AlianeAmaral)"> 
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=YasserSE&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
